@@ -5,8 +5,8 @@ class Player {
         this.name = null;
         this.score=0
         //this.score
-       // var score
-       // score=0
+        //var score
+        //score=0
     }
 
     getCount() {
